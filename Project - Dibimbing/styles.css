@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: rgb(104, 153, 245);
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.judul-header {
+  color: white;
+  text-align: center;
+  padding-bottom: 0px;
+}
+
+.paragraf-header {
+  color: white;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 9px 100px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: rgb(104, 153, 245);
+  padding-bottom: 10px;
+}
+
+button {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3a78c2;
+}
+
+.project-details {
+  display: none;
+  margin-top: 10px;
+  background: #eef3f8;
+  padding: 10px;
+  border-radius: 8px;
+}
