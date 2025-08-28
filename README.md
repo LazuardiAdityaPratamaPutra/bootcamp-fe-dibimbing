@@ -11,7 +11,7 @@ Website ini berisi:
 - **Kontak** → link ke Instagram, LinkedIn, dan GitHub.  
 
 ## 🛠️ Teknologi yang Digunakan
-- HTML5 → untuk struktur halaman  
+- HTML5 → untuk struktur halaman.  
 - CSS3 → untuk styling dan layout  
 - JavaScript (Vanilla) → untuk tombol interaktif (menampilkan/menyembunyikan detail proyek)  
 
