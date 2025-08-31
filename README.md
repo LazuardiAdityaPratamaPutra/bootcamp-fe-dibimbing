@@ -12,7 +12,7 @@ Website ini berisi:
 
 ## 🛠️ Teknologi yang Digunakan
 - HTML5 → untuk struktur halaman.  
-- CSS3 → untuk styling dan layout  
+- CSS3 → untuk styling dan layout.
 - JavaScript (Vanilla) → untuk tombol interaktif (menampilkan/menyembunyikan detail proyek)  
 
 ## 🚀 Cara Menjalankan
