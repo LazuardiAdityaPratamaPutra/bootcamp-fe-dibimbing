@@ -1,7 +1,7 @@
 # 🌐 Mini Portfolio
 
 Website portfolio sederhana yang dibuat menggunakan **HTML, CSS, dan JavaScript**.  
-Project ini merupakan latihan dasar untuk menampilkan profil diri, proyek, dan kontak dengan tampilan yang simpel namun informatif.
+Project ini merupakan latihan dasar untuk menampilkan profil diri, proyek, dan kontak dengan tampilan yang simpel namun informatif
 
 ## 📖 Deskripsi
 Website ini berisi:
