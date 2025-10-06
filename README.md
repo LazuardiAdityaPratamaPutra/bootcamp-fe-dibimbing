@@ -21,7 +21,7 @@ Website ini berisi:
    git clone https://github.com/username/nama-repo.git
 2. Masuk ke Folder Project
    cd nama-repo
-3. Buka file index.html di browser.j
+3. Buka file index.html di browser.
 
 🌍 Live Demo
 Kamu bisa melihat versi live project ini di sini:
