@@ -8,7 +8,7 @@ Website ini berisi:
 - **Header** → judul dan deskripsi singkat tentang diri saya.  
 - **Tentang Saya** → informasi singkat mengenai latar belakang dan tujuan belajar.  
 - **Proyek** → deskripsi proyek mini portfolio ini dengan tombol interaktif untuk menampilkan detail.  
-- **Kontak** → link ke Instagram, LinkedIn, dan GitHub.  
+- **Kontak** → link ke Instagram, LinkedIn, dan GitHub. 
 
 ## 🛠️ Teknologi yang Digunakan
 - HTML5 → untuk struktur halaman.  
